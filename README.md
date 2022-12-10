@@ -4,10 +4,10 @@
 
 - 🌱 I’m currently learning **C Language**
 
-- 👨‍💻 All of my projects are available at [https://sushantkarn.info.np](https://sushantkarn.info.np)
-
-- 📝 I regularly write articles on [https://sushantkarn.com.np](https://sushantkarn.com.np)
-
+<!-- - 👨‍💻 All of my projects are available at [https://sushantkarn.info.np](https://sushantkarn.info.np)
+ -->
+<!-- - 📝 I regularly write articles on [https://sushantkarn.com.np](https://sushantkarn.com.np)
+ -->
 - 💬 Ask me about **Web Dev,**
 
 - ⚡ Fun fact **I think codding is alien language!**
